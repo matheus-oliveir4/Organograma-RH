@@ -1,0 +1,22 @@
+.botao {
+    text-align: center;
+}
+
+.botao button {
+    font-weight: 700;
+    margin-top: 15px;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    color: rgb(247, 247, 247);
+    background-color: #6378F7;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.botao:hover {
+    color: #95FFd4;
+}
