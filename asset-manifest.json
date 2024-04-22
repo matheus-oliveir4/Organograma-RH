@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Organograma-RH/static/css/main.38b78366.css",
+    "main.js": "/Organograma-RH/static/js/main.75be9339.js",
+    "index.html": "/Organograma-RH/index.html",
+    "main.38b78366.css.map": "/Organograma-RH/static/css/main.38b78366.css.map",
+    "main.75be9339.js.map": "/Organograma-RH/static/js/main.75be9339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38b78366.css",
+    "static/js/main.75be9339.js"
+  ]
+}
